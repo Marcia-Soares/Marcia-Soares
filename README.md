@@ -3,7 +3,7 @@
 Fiz o curso PrograMaria, em que tive a honra de conhecer pessoas incríveis,  e pude abrir meus olhos para uma infinidade de possibilidades no universo de TI, o curso me deu uma base no HTML,JS,CSS. Amei  o aprendizado, e indico para todes!
 
 - 🌱 Agora estou conhecendo um pouco mais sobre  Git e Github.
-E as futuras próximas aulas aprender, lógica de programação, SQL, MySQL, Python, Linux e mais a fundo de HTML, JS, CSS....
+E as próximas aulas aprender, lógica de programação, SQL, MySQL, Python, Linux e mais a fundo de HTML, JS, CSS....
 
 - 💞️ Estou procurando me desenvolver para posteriormente, conseguir auxiliar a rede com os conhecimentos adquiridos.
 - 📫 contato através www.linkedin.com/in/marciapssoares
