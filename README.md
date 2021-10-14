@@ -1,4 +1,4 @@
-- 🖖 Sou a Marcia, tenho 42 anos, mãe do pequeno Rafa.
+- 🖖 Sou a Marcia, mãe do pequeno Rafa.
 - :mortar_board: Turismóloga de formação. 
 
 Neste momento adquirindo conhecimentos no universo Tech, para uma transição de carreira.
