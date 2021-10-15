@@ -6,7 +6,7 @@ Neste momento adquirindo conhecimentos no universo Tech, para uma transição de
 > “Não tenha medo de mudar. 
 > Tenha medo de daqui a um ano estar reclamando dos mesmos problemas de hoje.” _**Anônimo**_
 - :computer: Interessada em absorver  e aprender  muito com vocês! 
-Fiz o curso PrograMaria, (Amei o aprendizado e indico a todes!) em que tive a honra de conhecer pessoas incríveis. Neste curso tive a oportunidade de conhecer e descobrir um leque vasto no universo de TI, foi a pitada de quero mais, que me fez desembarcar aqui!!
+Fiz o curso @*PrograMaria*, (Amei o aprendizado e indico a todes!) em que tive a honra de conhecer pessoas incríveis. Neste curso aprendi o conceito básico de HTML, CSS, JavaScript. Neste contato tive a oportunidade de conhecer e descobrir que existe um leque vasto no universo de TI, com isso foi a pitada de quero mais, que me fez desembarcar aqui!!
 
 - :beginner: Estou aprendendo sobre  Git e Github.
 
